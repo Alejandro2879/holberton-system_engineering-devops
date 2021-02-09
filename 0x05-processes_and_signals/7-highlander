@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Pending information
+function ctrlc()
+{
+	echo "I am invincible!!!"
+}
+trap ctrlc SIGTERM
+while true
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
