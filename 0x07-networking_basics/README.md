@@ -1,1 +1,1 @@
-Directory contain scripts that with renponses of mulyiple choice questions
+Directory contain files with the renponses to mulyiple choice questions
